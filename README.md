@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There
 
 <!--
 **Chartman25/chartman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
